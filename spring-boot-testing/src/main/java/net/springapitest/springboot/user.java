@@ -24,7 +24,7 @@ public class user {
 
 	public static Object getId() {
 		// TODO Auto-generated method stub
-		return null;
+		return this.id;
 	}
 	
 }
